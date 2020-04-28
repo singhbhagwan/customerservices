@@ -1,0 +1,1 @@
+server:  port: 1234  spring:  application:    name: customer-service   cloud:    config:      name: application-mysql 
